@@ -13,7 +13,7 @@ const Footer = () => {
           <hr className="border-white max-w-xl mx-auto" />
         </div>
         <div className="container mx-auto px-4 pb-4 text-center flex flex-col sm:flex-row sm:items-center sm:gap-2 sm:item-center sm:justify-center">
-          <span>Hosted @ <Link href="https://github.com/nwilson5/nuuson" aria-label="GitHub repository">github:nwilson5/bikesaferlol</Link></span>
+          <span>Hosted @ <Link href="https://github.com/nwilson5/bikesaferlol" aria-label="GitHub repository">github:nwilson5/bikesaferlol</Link></span>
           <span className="hidden sm:block">&middot;</span>
           <span>Deployed @ <Link href="https://pages.cloudflare.com/">Cloudflare Pages</Link></span>
         </div>
