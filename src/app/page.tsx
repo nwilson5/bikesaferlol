@@ -15,7 +15,7 @@ export default function Home() {
       </p>
 
       <p className="text-base mb-6 mt-12">
-        <h1 className="text-2xl font-bold mb-4">Current Crash Counter: 5</h1>
+        <h1 className="text-2xl font-bold mb-4">Current Crash Counter: 6+</h1>
       </p>
 
       <p className="text-base mb-6 mt-12">
